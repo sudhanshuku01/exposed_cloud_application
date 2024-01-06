@@ -1,0 +1,22 @@
+{
+  "name": "first-app-expose",
+  "version": "1.0.0",
+  "description": "this is app on the cloud",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nice",
+    "and",
+    "seamless",
+    "app"
+  ],
+  "author": "sudhanshu kushwaha",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
